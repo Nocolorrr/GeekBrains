@@ -34,3 +34,7 @@ elif (duration > second) and (duration < minute):
     print(f'{total_seconds} сек')
 else:
     print(f'{total_minute} мин {total_seconds} сек')  # если пользователь ввел 0
+
+
+
+
